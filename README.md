@@ -1,2 +1,2 @@
-# JavierCumbreras.github.io
+# javier-cumbreras.github.io
 Portfolio page
